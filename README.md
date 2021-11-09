@@ -1,7 +1,6 @@
-### Hi there! 👋
+### Hi there! I'm Noelia 🙋🏻
 
-- 👩‍💻 I’m currently working on automation testing. 
+- 👩‍💻 I’m a QA & Test Automator Professional
 - 💬 Ask me about testing
-- 📫 How to reach me: https://www.linkedin.com/in/noelia-judith-bravo/
-- ⚡ Fun fact: Cinnamon rolls lover
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/noelia-judith-bravo/) 
 
